@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "clear_collision_state_on_pairing_complete"
+  name: "broadcast_adapter_state_with_callback"
   state: ENABLED
   permission: READ_WRITE
 }

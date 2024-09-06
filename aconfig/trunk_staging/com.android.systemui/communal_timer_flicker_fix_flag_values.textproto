@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "status_bar_use_repos_for_call_chip"
+  name: "communal_timer_flicker_fix"
   state: ENABLED
   permission: READ_WRITE
 }
