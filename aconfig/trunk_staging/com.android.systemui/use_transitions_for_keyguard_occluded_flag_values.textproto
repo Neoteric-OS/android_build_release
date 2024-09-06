@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "notification_group_hun_removal_animation_fix"
+  name: "use_transitions_for_keyguard_occluded"
   state: ENABLED
   permission: READ_WRITE
 }
