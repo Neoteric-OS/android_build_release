@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.input.flags"
-  name: "hide_pointer_indicators_for_secure_windows"
+  name: "include_relative_axis_values_for_captured_touchpads"
   state: ENABLED
   permission: READ_WRITE
 }
