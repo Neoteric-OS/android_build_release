@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "notification_content_alpha_optimization"
+  name: "media_controls_umo_inflation_in_background"
   state: ENABLED
   permission: READ_WRITE
 }

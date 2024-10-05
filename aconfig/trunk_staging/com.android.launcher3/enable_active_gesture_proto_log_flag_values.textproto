@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.launcher3"
-  name: "enable_refactor_task_thumbnail"
+  name: "enable_active_gesture_proto_log"
   state: ENABLED
   permission: READ_WRITE
 }
