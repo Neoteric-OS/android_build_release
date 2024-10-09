@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.launcher3"
-  name: "enable_refactor_task_thumbnail"
+  name: "force_monochrome_app_icons"
   state: ENABLED
   permission: READ_WRITE
 }
