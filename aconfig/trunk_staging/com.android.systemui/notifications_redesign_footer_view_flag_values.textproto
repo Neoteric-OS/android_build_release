@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "home_controls_dream_hsum"
+  name: "notifications_redesign_footer_view"
   state: ENABLED
   permission: READ_WRITE
 }
