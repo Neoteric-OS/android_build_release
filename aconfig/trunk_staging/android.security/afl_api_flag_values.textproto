@@ -1,6 +1,6 @@
 flag_value {
-  package: "com.android.wm.shell"
-  name: "enable_pip2"
+  package: "android.security"
+  name: "afl_api"
   state: ENABLED
   permission: READ_WRITE
 }
