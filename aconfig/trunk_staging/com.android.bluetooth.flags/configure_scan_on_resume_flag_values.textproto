@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "avdt_handle_signaling_on_peer_failure"
+  name: "configure_scan_on_resume"
   state: ENABLED
   permission: READ_WRITE
 }
