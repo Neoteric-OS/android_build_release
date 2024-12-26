@@ -2,5 +2,5 @@ flag_value {
   package: "android.car.feature"
   name: "audio_control_hal_configuration"
   state: ENABLED
-  permission: READ_WRITE
+  permission: READ_ONLY
 }
