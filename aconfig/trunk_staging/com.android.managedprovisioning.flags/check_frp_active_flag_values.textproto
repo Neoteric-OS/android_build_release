@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.managedprovisioning.flags"
-  name: "check_frp_active"
-  state: ENABLED
-  permission: READ_WRITE
-}
