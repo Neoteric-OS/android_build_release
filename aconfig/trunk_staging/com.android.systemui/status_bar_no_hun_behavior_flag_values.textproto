@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "enable_contextual_tip_for_mute_volume"
+  name: "status_bar_no_hun_behavior"
   state: ENABLED
   permission: READ_WRITE
 }
