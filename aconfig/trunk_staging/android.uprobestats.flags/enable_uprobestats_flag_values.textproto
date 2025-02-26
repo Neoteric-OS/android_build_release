@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.uprobestats.flags"
-  name: "enable_uprobestats"
-  state: ENABLED
-  permission: READ_ONLY
-}
