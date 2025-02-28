@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "status_bar_root_modernization"
+  name: "notification_bundle_ui"
   state: ENABLED
   permission: READ_WRITE
 }
