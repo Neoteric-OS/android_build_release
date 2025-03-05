@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "enable_visual_indicator_in_transition_bugfix"
+  name: "disable_desktop_launch_params_outside_desktop_bug_fix"
   state: ENABLED
   permission: READ_WRITE
 }
