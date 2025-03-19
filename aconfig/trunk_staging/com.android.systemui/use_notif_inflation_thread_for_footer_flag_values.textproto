@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "smartspace_viewpager2"
+  name: "use_notif_inflation_thread_for_footer"
   state: ENABLED
   permission: READ_WRITE
 }

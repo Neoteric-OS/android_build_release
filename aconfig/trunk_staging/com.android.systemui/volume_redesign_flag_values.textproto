@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "glanceable_hub_back_action"
+  name: "volume_redesign"
   state: ENABLED
   permission: READ_WRITE
 }
