@@ -1,5 +1,5 @@
 name:  "RELEASE_ZUMA_TARGET_ARCH_VARIANT_ARMV9"
-namespace:  "android_UNKNOWN"
+namespace:  "system_performance"
 description:  "Build code for Tensor G3 (Zuma) as ARMv9-A instead of ARMv8.2-A"
 value: {
   bool_value: false
